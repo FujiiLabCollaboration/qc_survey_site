@@ -1,4 +1,27 @@
 code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendor_id	thema_ids	subject_ids	title	comments
+2212.14781	FALSE	2022/12/30 15:38	2022	449256520	0	IonQ	F6		Adapting the HHL algorithm to quantum many-body theory	
+2212.14170	FALSE	2022/12/29 4:20	2022	449241809	1	IBM	F9		Simulating neutrino oscillations on a superconducting qutrit	高次励起状態にもアクセスし、qutritとして量子ビットを制御
+2212.13834	FALSE	2022/12/28 14:36	2022	449236085	4	IBM	F11		Simulating noisy quantum channels via quantum state preparation   algorithms	
+2212.13511	FALSE	2022/12/27 14:57	2022	449226234	17	Quantinuum	F3		Digitized-Counterdiabatic Quantum Algorithm for Protein Folding	Google rainbow simlatorも利用
+2212.12911	FALSE	2022/12/25 14:31	2022	449206052	4	IBM	F3		PANSATZ: Pulse-based Ansatz for Variational Quantum Algorithms	
+2212.11036	FALSE	2022/12/21 14:23	2022	449165998	6	IBM	B		Algorithmic Shadow Spectroscopy	
+2212.10642	FALSE	2022/12/20 20:38	2022	449158603	7	IBM	B		Mitigating Coupling Map Constrained Correlated Measurement Errors on   Quantum Devices	IBM Manillaも使用
+2212.10482	FALSE	2022/12/20 17:56	2022	449157474	5	IBM	F7		Performance of Uncoded Implementation of Grover's Algorithm on Today's   Quantum Processors	
+2212.09915	FALSE	2022/12/19 23:42	2022	449149879	3	IBM	A		Quantum simulation of the generalized-entangled quantum eraser and the   related complete complementarity relations	
+2212.07500	FALSE	2022/12/14 20:45	2022	449098649	14	IBM	C		Concepts and conditions for error suppression through randomized   compiling	
+2212.05493	TRUE	2022/12/11 12:42	2022	449065296	8	IBM	B		Error suppression by a virtual two-qubit gate	
+2212.05333	FALSE	2022/12/10 16:31	2022	449056882	4	IBM	E		Applying NOX Error Mitigation Protocols to Calculate Real-time Quantum   Field Theory Scattering Phase Shifts	
+2212.03850	FALSE	2022/12/7 18:45	2022	449027813	6	IBM	F13		SupercheQ: Quantum Advantage for Distributed Databases	
+2212.02482	TRUE	2022/12/5 18:40	2022	449007784	12	IonQ	F3		Orbital-optimized pair-correlated electron simulations on trapped-ion   quantum computers	
+2212.00515	FALSE	2022/12/1 14:10	2022	448965909	3	IonQ	F5		Suppressing unwanted fluctuations in QAOA and approximate quantum   annealing	
+2211.16267	FALSE	2022/11/29 14:54	2022	448946209	4	IBM	A		Simulation of positive operator-valued measures and quantum instruments   via quantum state preparation algorithms	
+2211.15631	FALSE	2022/11/28 18:35	2022	448937745	40	Rigetti	C		Benchmarking simulated and physical quantum processing units using   quantum and hybrid algorithms	
+2211.10555	FALSE	2022/11/19 1:19	2022	448840555	3	IBM	F10		Noise-Resilient Quantum Power Flow	
+2211.10068	FALSE	2022/11/18 7:45	2022	448833233	7	IBM	A		Scrambling and Quantum Teleportation	
+2211.08780	FALSE	2022/11/16 9:12	2022	448813839	20	IBM	F2		Noise-robust ground state energy estimates from deep quantum circuits	
+2211.07539	FALSE	2022/11/14 17:05	2022	448797123	2	IBM	"A,E"		Local predictability and coherence versus distributed entanglement in   entanglement swapping from partially entangled pure states	
+2211.06703	TRUE	2022/11/12 16:46	2022	448776990	12	Quantinuum	D		Protecting Expressive Circuits with a Quantum Error Detection Code	
+2211.05822	FALSE	2022/11/10 19:25	2022	448758092	9	IBM	F5		Open-Shop Scheduling With Hard Constraints	
 2211.04543	FALSE	2022/11/8 20:31	2022	448738548	5	IBM	"F7,B"	1	Better-than-classical Grover search via quantum error detection and   suppression	
 2211.02861	FALSE	2022/11/5 9:28	2022	448703950	7	IBM	F5	"78,18,1"	Feature Selection for Classification with QAOA	
 2211.02684	FALSE	2022/11/4 18:06	2022	448697546	3	IBM	F9	1	Digital quantum simulation of scalar Yukawa coupling: Dynamics following   an interaction quench on IBM Q	
@@ -189,10 +212,14 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2111.15522	FALSE	2021/11/30 16:08	2021	445306722	2	IBM	E	"1,21"	Model-Independent Error Mitigation in Parametric Quantum Circuits and   Depolarizing Projection of Quantum Noise	
 2111.15183	FALSE	2021/11/30 7:49	2021	445303257	1	IBM	F8	1	Modelling quantum photonics on a quantum computer	
 2111.11996	FALSE	2021/11/23 16:54	2021	445237045	4	IBM	F2	"7,1"	Simulating strongly interacting Hubbard chains with the Variational   Hamiltonian Ansatz on a quantum computer	
+2111.11674	FALSE	2021/11/23 6:45	2021	445232817	0	0		"1,29"	QuantumCircuitOpt: An Open-source Framework for Provably Optimal Quantum   Circuit Design	
+2111.11387	FALSE	2021/11/22 18:00	2021	445227500	0	0		"1,11"	Quanto: Optimizing Quantum Circuits with Automatic Generation of Circuit   Identities	
+2111.10466	FALSE	2021/11/19 22:41	2021	445199451	0	0		"1,7"	Simulation of quantum physics with Tensor Processing Units: brute-force   computation of ground states and time evolution	
 2111.09472	TRUE	2021/11/18 1:44	2021	445180728	15	IBM	"C,F7"	"1,9"	Exploring Airline Gate-Scheduling Optimization Using Quantum Computers	
 2111.09028	FALSE	2021/11/17 10:45	2021	445174483	4	IBM	"B,C"	"1,35"	United Nation Security Council in Quantum World: Experimental   Realization of Quantum Anonymous Veto Protocols using IBM Quantum Computer	
 2111.08814	FALSE	2021/11/16 22:29	2021	445169373	5	IBM	"E,F1"	1	Error mitigation in variational quantum eigensolvers using probabilistic   machine learning	
 2111.08771	FALSE	2021/11/16 20:50	2021	445168681	5	Rigetti	F2	1	Variational Adiabatic Gauge Transformation on real quantum hardware for   effective low-energy Hamiltonians and accurate diagonalization	
+2111.08044	FALSE	2021/11/15 19:02	2021	445157936	0	0		"1,2,58,3"	Simulation of quantum many-body dynamics with Tensor Processing Units:   Floquet prethermalization	
 2111.07051	FALSE	2021/11/13 5:58	2021	445132490	1	IBM	"B,A"	1	Predicting non-Markovian superconducting qubit dynamics from tomographic   reconstruction	
 2111.06102	FALSE	2021/11/11 8:49	2021	445113675	7	IBM	F7	"35,1"	The Present and Future of Discrete Logarithm Problems on Noisy Quantum   Computers	
 2111.05026	FALSE	2021/11/9 10:07	2021	445094221	5	IBM	E	"1,21"	Investigating the variance increase of readout error mitigation through   classical bit-flip correction on IBM and Rigetti quantum computers	
@@ -335,17 +362,17 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2102.08451	FALSE	2021/2/16 21:06	2021	442438798	20	IBM	C	"1,10"	Orchestrated Trios: Compiling for Efficient Communication in Quantum   Programs with 3-Qubit Gates	
 2102.06117	FALSE	2021/2/11 16:56	2021	442387062	3	IBM	B	1	Pulse-engineered Controlled-V gate and its applications on   superconducting quantum device	
 2102.05511	FALSE	2021/2/10 15:54	2021	442376631	4	IBM	F3	"1,24"	"Benchmarking Quantum Chemistry Computations with Variational, Imaginary   Time Evolution, and Krylov Space Solver Algorithms"	
-2102.05321	FALSE	2021/2/10 8:46	2021	442373654	19	IBM	"C,F3"	"41,1"	Enabling multi-programming mechanism for quantum computing in the NISQ   era	　
-2102.04313	FALSE	2021/2/8 16:18	2021	442356797	5	IBM	"F8,F7"	"1,18,25"	Long-time simulations with high fidelity on quantum hardware	IBM Boeblingenも使用。
-2102.03788	FALSE	2021/2/7 12:18	2021	442345125	20	IBM	"C,A"	1	Quantum Divide and Compute: Exploring The Effect of Different Noise   Sources	　
-2102.01783	FALSE	2021/2/2 22:30	2021	442299378	6	IBM	F7	1	Implementation of efficient quantum search algorithms on NISQ computers	　
-2101.10307	TRUE	2021/1/25 18:46	2021	442217821	57	IBM	A	1	Testing Scalable Bell Inequalities for Quantum Graph States on IBM   Quantum Devices	
-2101.10227	FALSE	2021/1/25 16:41	2021	442216957	5	Quantinuum	"F9,E"	"1,21,22,13"	A Trailhead for Quantum Simulation of SU(3) Yang-Mills Lattice Gauge   Theory in the Local Multiplet Basis	
-2101.10202	FALSE	2021/1/22 18:16	2021	442187612	5	IBM	F8	1	Simulation of Lennard-Jones Potential on a Quantum Computer	
-2101.09581	TRUE	2021/1/23 20:36	2021	442198588	17	Google	"F1,F13"	1	Machine learning of high dimensional data on a noisy quantum processor	宇宙科学に関係する内容で、超新星の分類を量子機械学習によって実行した。
-2101.08946	FALSE	2021/1/22 4:36	2021	442181920	27	IBM	A	1	Generation and verification of 27-qubit Greenberger-Horne-Zeilinger   states in a superconducting quantum computer	
-2101.08151	FALSE	2021/1/20 14:20	2021	442165973	3	IBM	F8	1	Composable Programming of Hybrid Workflows for Quantum Simulation	
-2101.07677	FALSE	2021/1/19 15:20	2021	442156389	2	IBM	"F8,F7"	1	Noisy intermediate scale quantum simulation of time dependent   Hamiltonians	
+2102.05321	FALSE	2021/2/10 8:46	2021	442373654	19	0	"C,F3"	"41,1"	Enabling multi-programming mechanism for quantum computing in the NISQ   era	　
+2102.04313	FALSE	2021/2/8 16:18	2021	442356797	5	0	"F8,F7"	"1,18,25"	Long-time simulations with high fidelity on quantum hardware	IBM Boeblingenも使用。
+2102.03788	FALSE	2021/2/7 12:18	2021	442345125	20	0	"C,A"	1	Quantum Divide and Compute: Exploring The Effect of Different Noise   Sources	　
+2102.01783	FALSE	2021/2/2 22:30	2021	442299378	6	0	F7	1	Implementation of efficient quantum search algorithms on NISQ computers	　
+2101.10307	FALSE	2021/1/25 18:46	2021	442217821	5	0	"F9,E"	1	Testing Scalable Bell Inequalities for Quantum Graph States on IBM   Quantum Devices	
+2101.10227	TRUE	2021/1/25 16:41	2021	442216957	17	0	"F1,F13"	"1,21,22,13"	A Trailhead for Quantum Simulation of SU(3) Yang-Mills Lattice Gauge   Theory in the Local Multiplet Basis	
+2101.10202	FALSE	2021/1/22 18:16	2021	442187612	27	0	A	1	Simulation of Lennard-Jones Potential on a Quantum Computer	
+2101.09581	FALSE	2021/1/23 20:36	2021	442198588	5	0	F8	1	Machine learning of high dimensional data on a noisy quantum processor	
+2101.08946	FALSE	2021/1/22 4:36	2021	442181920	3	0	F8	1	Generation and verification of 27-qubit Greenberger-Horne-Zeilinger   states in a superconducting quantum computer	
+2101.08151	FALSE	2021/1/20 14:20	2021	442165973	2	0	"F8,F7"	1	Composable Programming of Hybrid Workflows for Quantum Simulation	
+2101.07677	FALSE	2021/1/19 15:20	2021	442156389	0	0		1	Noisy intermediate scale quantum simulation of time dependent   Hamiltonians	
 2101.06879	FALSE	2021/1/18 5:08	2021	442142139	2	IBM	"F3,F7"	"1,43,24"	Simulating Energy Transfer in Molecular Systems with Digital Quantum   Computers	　
 2101.03258	FALSE	2021/1/8 23:48	2021	442049922	5	IBM	"B,F5"	"1,12"	Fair Sampling Error Analysis on NISQ Devices	"その他使用したQPUを以下に示す。 IBM rome, IBM santiago, IBM bogota, IBM valencia, IBM vigo, IBM melbourne, IBM ourense, IBM mumbai, IBM brooklyn, IBM sydney, IBM guadalupe, IBM lagos, IBM jakarta, IBM lima_"
 2101.02331	FALSE	2021/1/7 2:19	2021	442030971	15	Rigetti	"E,F5"	1	Modeling and mitigation of cross-talk effects in readout noise with   applications to the Quantum Approximate Optimization Algorithm	　
@@ -675,33 +702,6 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 1605.08922	FALSE	2016/5/28 18:17	2016	425187619	5	IBM	A	1	Quantum phase space measurement and entanglement validation made easy	
 1605.05709	FALSE	2016/5/18 19:15	2016	425088027	5	IBM	D	1	Performing Quantum Computing Experiments in the Cloud	5qubit QC利用との記載あり
 1605.04220	FALSE	2016/5/13 15:43	2016	425036552	5	IBM	A	"1,6"	Experimental test of Mermin inequalities on a 5-qubit quantum computer	5qubit QC利用との記載あり
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
 0	0				0	0	0		0	0
 0	0				0	0	0		0	0
 0	0				0	0	0		0	0
